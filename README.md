@@ -19,6 +19,6 @@ Collect NMR chemical shifts, their deviation to exp. values, RMSE, and their rel
 
 How to use:
 -provide a series of Gaussian *.log files
--python3 getNMRshifts.py
+> python3 getNMRshifts.py
 
 
