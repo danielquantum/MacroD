@@ -15,7 +15,8 @@ Input: *.g16
 
 > python3 SnapshotsOpt.py
 
-3) getNMRshifts.py
+3) Analysis
+3a) getNMRshifts.py
 
 Collect NMR chemical shifts, their deviation to exp. values, RMSE, and their relative energies with respect to lowest energy conformer.
 -Output: *.csv file
@@ -25,7 +26,7 @@ How to use:
 
 > python3 getNMRshifts.py
 
-4) analysis.py
+3b) analysis.py
 
 Using dataframe to sort relevance conformers below 5 kcal/mol, below 10 kcal/mol, below 15 kcal/mol, and below 20 kcal/mol
 Input: 8e.csv
