@@ -16,6 +16,7 @@ Input: *.g16
 > python3 SnapshotsOpt.py
 
 3) Analysis
+
 3a) getNMRshifts.py
 
 Collect NMR chemical shifts, their deviation to exp. values, RMSE, and their relative energies with respect to lowest energy conformer.
