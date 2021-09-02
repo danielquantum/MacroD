@@ -1,0 +1,11 @@
+%chk=8e.chk
+%mem=48GB
+%NProcShared=10
+#P B3LYP/6-311++G(2d,p) scf=tight Int=Ultrafine scrf(Solvent=Chloroform) NMR
+
+8e
+
+0 1
+Here
+
+
